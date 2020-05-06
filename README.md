@@ -18,7 +18,7 @@ _A project to introduce the C# language and the .NET Core framework. The lesson 
 
 ## Known Bugs
 
-There are no known bugs at the time of this update.
+The logic is not yet complete at the time of this update.
  
 ## Support and contact details
 
